@@ -1,0 +1,7 @@
+com\example\demo\User.class
+com\example\demo\UserPrincipal.class
+com\example\demo\SpringController.class
+com\example\demo\AppSecurityConfig.class
+com\example\demo\MyUserDetailsService.class
+com\example\demo\SpringSecurityApplication.class
+com\example\demo\UserRepository.class
